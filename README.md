@@ -131,44 +131,6 @@ This comparison validated the design accuracy.
 
 ---
 
-## Filter Circuits
-
-### Filter 1 – RC Low Pass
-
-![Filter 1](images/filter1_rc.png)
-
----
-
-### Filter 2 – LC Matching Filter
-
-![Filter 2](images/filter2_lc.png)
-
----
-
-### Filter 3 – LCLCRC Filter
-
-![Filter 3](images/filter3_lclcrc.png)
-
----
-
-### Active Amplifier Stage
-
-![Amplifier](images/amplifier_stage.png)
-
----
-
-### Filter 5 – LC Low Pass
-
-![Filter 5](images/filter5_lc.png)
-
----
-
-### Capacitive Tap
-
-![Capacitive Tap](images/capacitive_tap.png)
-
----
-
 ## Bode Plot Comparisons
 
 ### Output 1
